@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{02199256-0FB8-47C2-8C6F-670987B5CF71}|Default">
+  <MonoDevelop.Ide.ItemProperties.BoardingPassUI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F2F79E18-52A0-4279-B7A1-E4E905F7CD6A" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BoardingPassUI/App.xaml">
+    <Files>
+      <File FileName="BoardingPassUI/MainPage.xaml" Line="5" Column="33" />
+      <File FileName="BoardingPassUI/App.xaml" Line="7" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BoardingPassUI" expanded="True">
+            <Node name="BoardingPassUI" expanded="True">
+              <Node name="App.xaml" selected="True" />
+            </Node>
+            <Node name="BoardingPassUI.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="BoardingPassUI.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BoardingPassUI.Android PreferredExecutionTarget="Android.lrr_-_pixel_2" />
+</Properties>

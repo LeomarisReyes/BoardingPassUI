@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BoardingPassUI.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Color x:Key="MainColor">#e42525</Color>
+            
+            <Style x:Key="CountryName" TargetType="Label"> 
+                <Setter Property="HorizontalOptions" Value="Start"/>
+                <Setter Property="TextColor" Value="White"/>
+            </Style>
+            <Style x:Key="AirportName" TargetType="Label"> 
+                <Setter Property="HorizontalOptions" Value="Start"/>
+                <Setter Property="FontSize" Value="40"/>
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+            </Style> 
+            <Style x:Key="TicketTitle" TargetType="Label">
+                <Setter Property="FontSize" Value="13"/>
+                <Setter Property="Padding" Value="0,30,0,0"/>
+                <Setter Property="TextColor" Value="Silver"/>
+            </Style>
+            <Style x:Key="TicketDescription" TargetType="Label">
+                <Setter Property="FontSize" Value="20"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+            </Style>
+            <Style x:Key="DivisionLine" TargetType="Line"> 
+                   <Setter Property="TranslationY"      Value="{OnPlatform Android='15', iOS='20'}"/>
+                   <Setter Property="VerticalOptions"   Value="Center"/>
+                   <Setter Property="HorizontalOptions" Value="Center"/>
+                   <Setter Property="StrokeDashArray"   Value="1,6"/>
+                   <Setter Property="X2"                Value="320"/>
+                   <Setter Property="StrokeLineCap"     Value="Square"/>
+                   <Setter Property="Stroke"            Value="Silver"/>
+                   <Setter Property="StrokeThickness"   Value="2"/>
+            </Style>
+            
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
