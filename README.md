@@ -15,6 +15,6 @@
 <hr />
 
 ## 📒  Do you want to know how to do it?
-<p> Enter to my article: <a href="https://askxammy.com/?p=8458&preview=true&_thumbnail_id=8551" Target="_blank">https://askxammy.com/?p=8458&preview=true&_thumbnail_id=8551</a></p>
+<p> Enter to my article: <a href="https://askxammy.com/replicating-boarding-pass-ui-in-xamarin-forms/" Target="_blank">https://askxammy.com/replicating-boarding-pass-ui-in-xamarin-forms/</a></p>
 <p> Design obteined from Dribble:  <a href="https://dribbble.com/shots/12255540-Good-Mood-Dudes" Target="_blank">https://dribbble.com/shots/12255540-Good-Mood-Dudes</a></p>
 
